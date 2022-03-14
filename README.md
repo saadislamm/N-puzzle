@@ -1,7 +1,7 @@
 # N-puzzle
 **"A" Algorithm** to solve the **N Sliding Puzzle** using **Manhattan Distance**
 
-![Screenshot](n-puzzle.jpg)
+<img src="n-puzzle.jpg" width="250px" height="auto">
 
 - All the steps from start to goal are displayed as the output
 - Any desired GOAL state may be set
