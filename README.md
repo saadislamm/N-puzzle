@@ -1,6 +1,8 @@
 # N-puzzle
 **"A" Algorithm** to solve the **N Sliding Puzzle** using **Manhattan Distance**
 
+![Screenshot](n-puzzle.jpg)
+
 - All the steps from start to goal are displayed as the output
 - Any desired GOAL state may be set
 - Half of the starting states are unsolvable (check not incorporated)
